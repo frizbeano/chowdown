@@ -1,8 +1,8 @@
 # Site settings
-title: Chowdown
+title: Recipes
 email: your-email@domain.com
 description: The plain text recipe database for hackers
-baseurl: "https://chowdown.io"
+baseurl: "https://frizbeano.github.io/chowdown/"
 language: "en"
 lang_direction: "ltr"
 color: "#007FFF"
