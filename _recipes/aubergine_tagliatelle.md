@@ -24,4 +24,6 @@ directions:
 - Add the can of chopped tomatoes to the pan, season with salt and pepper and switch the pan to low-med heat until sauce is thickened. About 5 min
 - Combine the aubergine,sauce,pasta along with the parsley and parmesan and serve
 
+---
+
 This is a simple vegetarian pasta dish
